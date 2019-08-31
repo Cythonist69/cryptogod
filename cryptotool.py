@@ -222,7 +222,7 @@ def main():
         banner2()
         sys.exit()
     else: 
-	print('Please Enter A Valid Choice')
+	# print('Please Enter A Valid Choice')
         main()
 banner()
 main()
