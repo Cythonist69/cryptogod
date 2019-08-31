@@ -6,5 +6,4 @@ This tool works by passing a passphrase and crypting it to a multiple hashing al
   # cd cryptogod 
   # python3 cryptotool.py 
 
-Enjoy Crypting !! 
 
